@@ -5,4 +5,6 @@
 []CARDS
 []el señor de los anillos
 []jhon walker
-
+[]la era de hielo
+[]assasing
+[]gravedad
