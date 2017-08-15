@@ -6,3 +6,5 @@
 []ensalada
 []gaseosa
 []empanadas
+[]arroz
+[]verduras
