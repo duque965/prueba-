@@ -4,7 +4,4 @@
 []carne
 []frijoles
 []ensalada
-[]gaseosa
-[]empanadas
-[]arroz
-[]verduras
+[]
