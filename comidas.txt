@@ -4,4 +4,6 @@
 []carne
 []frijoles
 []ensalada
-[]
+[]arros
+[]granos
+[]lentejas
