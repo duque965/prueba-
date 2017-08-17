@@ -2,11 +2,11 @@
 []el cantar de la luna oscura
 []tren al sur
 []flaca
-[]aguita amarilla
-[]matador
+[X]aguita amarilla
+[X]matador
 []maldita bruja
-[]solo
+[X]solo
 []ONE
-[x]el baile de los que sobran
+[x]No ME HABLES DE AMOR
 
 
